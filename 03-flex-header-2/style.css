@@ -40,14 +40,11 @@ body {
   gap: 10px;
 }
 
-.left-group {
-  display: flex;
-  gap: 10px;
-}
-
+.left-group,
 .right-group {
   display: flex;
-  gap: 10px;
+  gap: 16px;
+  align-items: center;
 }
 
 button {
